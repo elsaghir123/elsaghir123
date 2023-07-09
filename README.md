@@ -22,12 +22,12 @@
 <a href="https://t.me/Aelsaghir" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elsaghir-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#&logoColor=563D7C)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Microsoft Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
-![Sql Server](https://img.shields.io/badge/-sql%20server-05122A?style=flat&logo=sql-server&logoColor=007ACC)&nbsp;
+![Sql Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat&logo=sql-server&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 ![Kaggle](https://img.shields.io/badge/-kaggle-05122A?style=flat&logo=kaggle&logoColor=007ACC)&nbsp;
 
