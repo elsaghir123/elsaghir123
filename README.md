@@ -26,7 +26,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Microsoft Visual Studio](https://img.shields.io/badge/-Visual%20Studio2022-05122A?style=flat&logo=visual-studio2022&logoColor=007ACC)&nbsp;
+![Microsoft Visual Studio](https://img.shields.io/badge/-Microsoft%20Visual%20Studio-05122A?style=flat&logo=microsoft-visual-studio&logoColor=007ACC)&nbsp;
 ![Sql Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat&logo=sql-server&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 ![Kaggle](https://img.shields.io/badge/-kaggle-05122A?style=flat&logo=kaggle&logoColor=007ACC)&nbsp;
