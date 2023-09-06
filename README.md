@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python and C# related to web development , Machine learning and Deep learning.
+- 💬 Ask me about my experience with Python related to Machine learning and Deep learning.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
