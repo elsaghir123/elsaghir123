@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20learning%20Deep%20learning;Data%20science&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20learning;Data%20science&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
