@@ -17,7 +17,7 @@
 
 ### 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/Ahmed Elsaghir" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-elsaghir-781294235/" target="_blank">
   <img src="https://img.shields.io/badge/-Ahmed%20Elsaghir-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://www.kaggle.com/ahmedelsaghir" target="_blank">
