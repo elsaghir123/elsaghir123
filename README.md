@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Engineer;Deep%20Learning%20Enthusiast;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Engineer;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/Ahmed Elsaghir" target="_blank">
   <img src="https://img.shields.io/badge/-Ahmed%20Elsaghir-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="[https://www.kaggle.com/your_username](https://www.kaggle.com/ahmedelsaghir)" target="_blank">
+<a href="https://www.kaggle.com/ahmedelsaghir" target="_blank">
   <img src="https://img.shields.io/badge/-Ahmed%20Elsaghir-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
